@@ -1,0 +1,13 @@
+[user]
+	name = Slater Chesser
+	email = sl8rsc@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
